@@ -1,3 +1,5 @@
+# NOTE: THERE IS REDUNDANT CODE IN THIS ASSIGNM
+
 class Game
   
   attr_accessor :board, :player_1, :player_2
@@ -99,6 +101,8 @@ class Game
         play_again?
     end
   end
+  
+# REMOVE THE COMMENTS (#) IN THE #PLAY METHOD BELOW TO ACTIVATE COMPUTER PLAY MODE.
   
   def play
     
