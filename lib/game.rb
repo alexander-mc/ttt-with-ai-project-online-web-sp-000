@@ -106,7 +106,6 @@ class Game
 # REMOVE THE COMMENTS (#) IN THE #PLAY METHOD BELOW TO ACTIVATE COMPUTER PLAY MODE.
   
   def play
-    
     puts "Welcome to Tic-Tak-Toe v.3.2!"
     # set_player_1
     # set_player_2
@@ -121,7 +120,5 @@ class Game
     end
     
     # play_again?
-  
   end
-
 end
